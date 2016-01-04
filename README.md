@@ -33,3 +33,11 @@ Empty File for
 And last but not least
 
 * Unknown file extension collector !
+
+
+## Planned Features for later
+
+* Different response for different requests. E.g. domain a wants to have a bigger empty pixel.
+* Whiteliste of Domains for bypassing filtering
+* HTTPS Support
+    openssl req -new -x509 -keyout server.pem -out server.pem -days 365 -nodes
