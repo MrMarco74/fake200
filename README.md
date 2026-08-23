@@ -1,4 +1,6 @@
 # fake200
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-Python-informational.svg) ![AI generated](https://img.shields.io/badge/AI-generated-8A2BE2.svg)
 fake200 is a small in python written webserver which main purpose is to answer this annoying tracking pixel requests.
 It works best in combination with a self installed dns server which redirects all request to himself.
 
